@@ -20,17 +20,17 @@ This repository contains a sign-up form web page with validation styling, respon
 - Styled button and input fields
 - Modular HTML and CSS
 
-## 🛠️ How to Run
+## How to Run
 
 - Open `webpage/index.html` in a browser.
 
 
-## ✨ Customize
+## Customize
 
 - Update `webpage/index.html` for new form fields (name, email, password, etc.).
 - Tweak `webpage/style.css` for colors, typography, spacing.
 
-## 📝 Notes
+## Notes
 
 This is a static frontend prototype. Add JavaScript or a backend to enable real form submission and validation.
 
